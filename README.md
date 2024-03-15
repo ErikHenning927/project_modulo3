@@ -52,6 +52,7 @@ Os gráficos foram gerados usando a biblioteca Matplotlib para visualizar os res
 
 - Python 3
 - Bibliotecas: pandas, matplotlib, numpy
+- para instalar as bibliotecas rodar no terminal(pip install -r requirements.txt)
 
 ## Como Usar
 
